@@ -1,4 +1,4 @@
-# secure-bert-ner
+# SecureBERT-NER model
 SecureBERT-NER model running on a docker container
 
 ## Documentation
