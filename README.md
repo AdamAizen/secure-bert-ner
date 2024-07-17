@@ -13,16 +13,12 @@ This implementation is meant to run locally as a http server on a docker contain
 #### Pull docker image
 To use the SecureBERT-NER model, one must pull the securebert-ner-server image from Docker Hub as in the following example:
 
-
-#### Pull the docker image from Docker Hub:
 docker pull adamaizen/securebert-ner-server
 
 
 #### Run model on local machine
 In order to run the docker image locally, follow the next example:
 
-
-#### Run the docker container locally:
 docker run -p 5000:5000 securebert-ner-server
 
 
