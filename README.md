@@ -41,3 +41,9 @@ The expected result set should look like this:
 ### Limitations
 The server is limited to text files no larger than 1MB.
 
+
+### Docker Hub repo
+https://hub.docker.com/repositories/adamaizen
+
+### Source code repo
+https://github.com/AdamAizen/secure-bert-ner
